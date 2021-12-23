@@ -31,7 +31,7 @@ body{
     display: flex;
     position: fixed;
     background-color: seagreen;
-    width: ;
+    width: 100%;
     align-items: center;
     justify-content: space-between;
     padding-left: 9rem;
