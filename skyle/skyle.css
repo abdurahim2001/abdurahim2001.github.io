@@ -27,11 +27,15 @@ body{
 .toolbar-tex p{
     color: rgb(22, 21, 21);
 }
+.header{
+    position: sticky;
+    top: 0;
+}
 .armada{
     display: flex;
-    position: fixed;
-    background-color: seagreen;
-    width: 100%;
+
+    bottom: 0;
+    background-color: rgb(255, 255, 255);
     align-items: center;
     justify-content: space-between;
     padding-left: 9rem;
@@ -61,7 +65,7 @@ font-size: 14px;
 border: none;
 }
 .ramka {
-    background-image: url('/background.png');
+    background-image: url('../img/background.png');
     height: 75vh;
     background-repeat: no-repeat;
     background-size: cover;
