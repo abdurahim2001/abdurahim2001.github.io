@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    padding-left: 3rem;
+    padding-right: 3rem;
+    font-size: 25px;
+}
+.menu h1 {
+display: flex;
+justify-content: space-around;
+}
+.menu h2{
+    display: flex;
+    justify-content: space-around;
+}

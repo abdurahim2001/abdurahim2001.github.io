@@ -42,6 +42,9 @@ body{
     padding-right: 9rem;
     gap: 8rem;
 }
+.armada img{
+    width: 250px;
+}
 .armada ul{
     display: flex;
     gap:3rem ;
