@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    display: flex;
+    padding-left: 12rem;
+    padding-right: 11rem;
+    justify-content: space-between;
+    text-align: center;
+
+}
+.class-1 img{
+    width: 200px;
+  }
+ 
+.class-1 {
+    display: flex;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    padding: 45px 30px;
+    gap: 2rem;
+}
+.menu h1{
+    color: darkviolet;
+}
+.menu h2{
+    color: dodgerblue;
+}

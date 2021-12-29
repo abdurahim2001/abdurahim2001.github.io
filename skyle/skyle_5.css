@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction:column;
+    
+}
+.menu img{
+    width: 10rem;
+}
+.menu{
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+    padding: 45px 30px 45px  30px;
+}
+.placeholder{
+    
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    padding: 15px;
+}
+button{
+    padding: 15px;
+}
